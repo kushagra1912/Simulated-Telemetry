@@ -1,0 +1,14 @@
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/bin/Debug/net9.0/UDPSender
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/bin/Debug/net9.0/UDPSender.deps.json
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/bin/Debug/net9.0/UDPSender.runtimeconfig.json
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/bin/Debug/net9.0/UDPSender.dll
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/bin/Debug/net9.0/UDPSender.pdb
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/UDPSender.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/UDPSender.AssemblyInfoInputs.cache
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/UDPSender.AssemblyInfo.cs
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/UDPSender.csproj.CoreCompileInputs.cache
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/UDPSender.dll
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/refint/UDPSender.dll
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/UDPSender.pdb
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/UDPSender.genruntimeconfig.cache
+/Users/kushagraagrawal/Desktop/NLR/SimulatedTelemetry/UDPSender/obj/Debug/net9.0/ref/UDPSender.dll
